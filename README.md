@@ -1,3 +1,12 @@
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Chainlit](https://img.shields.io/badge/Chainlit-1E4C6F?logo=chainlit&logoColor=white)](https://docs.chainlit.io/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
+[![Groq](https://img.shields.io/badge/Groq-FF6B6B?logo=groq&logoColor=white)](https://groq.com/)
+[![Tavily](https://img.shields.io/badge/Tavily-4A90E2?logo=tavily&logoColor=white)](https://tavily.com/)
+[![Chroma](https://img.shields.io/badge/Chroma-8E44AD?logo=chroma&logoColor=white)](https://www.trychroma.com/)
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/devbabarsultan/QanoonAI)](https://github.com/devbabarsultan/QanoonAI)
+
 # LegalGraph RAG (Chainlit)
 
 This project is a legal question-answering app built with **Chainlit** and a **LangGraph** workflow.
